@@ -1,4 +1,4 @@
-# ieImgInterpolation v0.1
+# ieImgInterpolation
 jQuery plugin for better image interpolation in Internet Explorer.
 
 ![Interpolation problem in IE](example.png)
