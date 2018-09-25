@@ -12,3 +12,4 @@ Download *ieImgInterpolation.min.js* and insert the following code before the en
     });
 </script>
 ```
+Tested with jquery-3.3.1.
