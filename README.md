@@ -1,5 +1,7 @@
-# ieImgInterpolation
+# ieImgInterpolation v0.1
 jQuery plugin for better image interpolation in Internet Explorer.
+
+![Interpolation problem in IE](example.png)
 
 ## Usage
 Download *ieImgInterpolation.min.js* and insert the following code before the end of your body tag.
