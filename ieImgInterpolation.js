@@ -1,14 +1,14 @@
 /*
  * jQuery plugin - ieImgInterpolation v0.1
  * MS IE have stupid image interpolation, this is a workaround.
- * Ondřej Šplíchal 25.9.2018
+ * Ondřej Šplíchal
  */
  
 (function($) {
     $.fn.ieImgInterpolation = function(opts) {
     
         var config = $.extend({}, {
-            steps: 2,
+            steps: 3,
             ieonly: true
         }, opts);
         
@@ -93,9 +93,5 @@
         return this;
     };
     
-    // start
-    $(function() {
-        $('img:not(.auto-interpolation)').ieImgInterpolation();
-    });
 })(jQuery);
 
