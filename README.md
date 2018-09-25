@@ -1,8 +1,8 @@
 # ieImgInterpolation
 jQuery plugin for better image interpolation in Internet Explorer.
 
-##Usage
-Add this code before the end of body tag.
+## Usage
+Download ieImgInterpolation.min.js and insert it before the end of body tag.
 ```
-<script type="text/javascript" src="assets/js/ieImgInterpolation.min.js"></script>
+<script type="text/javascript" src="ieImgInterpolation.min.js"></script>
 ```
